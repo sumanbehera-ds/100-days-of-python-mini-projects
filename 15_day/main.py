@@ -9,7 +9,7 @@ class complex:
         imag_part = (self.imag*self.real)+(other.real*other.imag) 
         return complex(real_part,imag_part)
     def __str__(self):
-        return (f"no:::{self.real},{self.imag}i")
+        return (f"no : {self.real},{self.imag}i")
 a = complex(4,6)
 b = complex(6,8)
 c = a+b
