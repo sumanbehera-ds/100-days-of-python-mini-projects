@@ -40,4 +40,4 @@ The **#100DaysOfCode** challenge is a commitment to code for at least 1 hour eve
 ## ⭐ Final Thoughts
 
 This journey taught me discipline, consistency, and problem-solving.  
-Excited to continue learning and building! 🚀
+Excited to continue learning and building!
