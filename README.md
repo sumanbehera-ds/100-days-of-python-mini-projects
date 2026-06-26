@@ -121,5 +121,45 @@ python main.py
 ```
 
 ---
+# 📈 Progress
+
+* ✅ 100 Days Completed
+* ✅ 100 Python Practice Projects
+* ✅ Continuous Daily Coding
+* ✅ GitHub Version Control Throughout
+
+---
+
+# 🌟 Highlights
+
+* Built projects consistently for 100 consecutive days.
+* Practiced Python fundamentals through hands-on coding.
+* Strengthened problem-solving and debugging skills.
+* Established a strong foundation for Machine Learning and AI development.
+
+---
+
+# 📌 Future Improvements
+
+* Add screenshots for selected projects.
+* Include project descriptions for every day.
+* Add difficulty levels.
+* Add learning outcomes for each project.
+* Improve documentation.
+* Create a project index with quick navigation.
+
+---
+
+# 🤝 Connect With Me
+
+**Suman Behera**
+
+* GitHub: https://github.com/sumanbehera-ds
+* LinkedIn: https://www.linkedin.com/in/suman-01-behera/
+* Portfolio: https://sumanbehera-ds.github.io/Suman-Portfolio/
+
+---
+
+# ⭐ If you found this repository helpful, consider giving it a Star.
 
 
