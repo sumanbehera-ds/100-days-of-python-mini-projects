@@ -1,44 +1,33 @@
-# 100-days-of-python-mini-projects
-# 💯 100 Days of Code Challenge
-Author - Suman Behera
+# 💯 100 Days of Python Mini Projects
 
-Welcome to my **100 Days of Code** journey!  
-For the past 100 days, I committed to coding every day and improving my skills.
-
----
-##  About the Challenge
-
-The **#100DaysOfCode** challenge is a commitment to code for at least 1 hour every day for 100 days.
-
-- 🗓️ Start Date: [Jan 12 2026]
-- 🏁 End Date: [April 28th 2026]
-- 💻 Focus Areas: [ Machine Learning]
+A collection of **100 Python mini projects** built as part of the **#100DaysOfCode** challenge. This repository documents my daily coding journey while strengthening problem-solving skills, Python fundamentals, automation, data processing, and machine learning concepts.
 
 ---
 
-## 📈 What I Achieved
+# 🚀 About the Challenge
 
-- ✅ Built multiple projects
-- ✅ Improved problem-solving skills
-- ✅ Learned new technologies
-- ✅ Maintained consistency for 100 days 🎯
+The **#100DaysOfCode** challenge is a commitment to code consistently every day. During this journey, I built mini projects, solved programming problems, explored Python libraries, and practiced writing clean, reusable code.
 
----
+### Challenge Details
 
-## 🛠️ Technologies Used
-
-- Languages: [ Python ]
-- Tools: [Git, GitHub, VS Code]
-
----
-## 🤝 Connect with Me
-
-- LinkedIn: [Looding....]
-
+* **Author:** Suman Behera
+* **Duration:** January 12, 2026 – April 28, 2026
+* **Language:** Python
+* **IDE:** VS Code
+* **Version Control:** Git & GitHub
 
 ---
 
-## ⭐ Final Thoughts
+# 🎯 Objectives
 
-This journey taught me discipline, consistency, and problem-solving.  
-Excited to continue learning and building!
+* Improve Python programming skills
+* Build coding consistency and discipline
+* Practice real-world problem solving
+* Learn new Python libraries
+* Develop reusable coding patterns
+* Strengthen debugging skills
+* Prepare for Machine Learning and AI projects
+
+---
+
+
